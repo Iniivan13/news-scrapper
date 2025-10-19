@@ -333,9 +333,7 @@ Possible future features:
 
 ## 📞 Contact & Support
 
-- **GitHub Issues**: [Report bugs](https://github.com/yourusername/cybersecurity-news-aggregator/issues)
-- **GitHub Discussions**: [Share ideas](https://github.com/yourusername/cybersecurity-news-aggregator/discussions)
-- **Email**: your.email@example.com
+- **Linkedin**: (https://www.linkedin.com/in/riskimivan)
 
 ---
 
