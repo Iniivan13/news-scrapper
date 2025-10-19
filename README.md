@@ -58,7 +58,7 @@ Aplikasi desktop modern untuk mengagregasi berita cybersecurity real-time dari m
 ### 1. Clone Repository
 
 ```bash
-git clone (https://github.com/Iniivan13/news-scrapper.git)
+git clone https://github.com/Iniivan13/news-scrapper.git
 cd news-scrapper
 ```
 
