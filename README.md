@@ -352,16 +352,13 @@ Possible future features:
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]([screenshots/dashboard.png](https://i.ibb.co.com/whBFYbHN/Cuplikan-layar-dari-2025-10-19-20-07-08.png))
 
 ### Live Log
-![Live Log](screenshots/live-log.png)
+![Live Log]([screenshots/live-log.png](https://i.ibb.co.com/N205Cmnm/Cuplikan-layar-dari-2025-10-19-20-07-15.png))
 
 ### Articles Table
-![Articles](screenshots/articles.png)
-
-### Settings Panel
-![Settings](screenshots/settings.png)
+![Articles](https://i.ibb.co.com/VY2qZ0tx/Cuplikan-layar-dari-2025-10-19-20-07-20.png)
 
 ---
 
