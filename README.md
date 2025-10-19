@@ -320,8 +320,6 @@ Temukan bug? Silakan buka [GitHub Issue](https://github.com/yourusername/cyberse
 
 ## 💡 Feature Requests
 
-Punya ide fitur baru? Buka [GitHub Discussion](https://github.com/yourusername/cybersecurity-news-aggregator/discussions) untuk discuss!
-
 Possible future features:
 - 🔔 Desktop notifications
 - 📧 Email alerts untuk artikel penting
